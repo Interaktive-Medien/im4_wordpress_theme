@@ -1,0 +1,108 @@
+/*
+Theme Name: Neun Schritte Theme, kommentiert
+Author: Lea Moser
+Author URI: https://beta.lea-moser.ch
+Description: Das ist ein Simples Theme welches in neun einfachen Schritten erstellt wurde
+Version: 1.0
+*/
+
+* {
+    margin: 0 0;
+    box-sizing: border-box;
+    letter-spacing: 0.3px;
+    line-height: 1.4;
+}
+
+body {
+    width: 100vw;
+    font-family: Open Sans;
+    background-color: white;
+}
+
+/*Headerzeugs-------------------------*/
+header h1{
+    font-size: 3rem;
+    font-weight: 700;
+    text-align: center;
+}
+
+header p,
+header nav {
+    font-size: 1.1rem;
+    font-weight: 300;
+    text-align: center;
+}
+
+header {
+    background-color:#3a3a3a;
+    color: white;
+    padding-top: 40px;
+    width: 100%;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+}
+
+header a:hover {
+    opacity: 0.5;
+}
+
+header nav {
+    margin-top: 40px;
+    background-color: #414142;
+    padding: 40px 0;
+}
+
+header nav ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+header nav li {
+    display: inline;
+}
+
+header nav li::after {
+    content: " | ";
+}
+
+/*Hauptinhalte------------------------*/
+main {
+    width: 50vw;
+    padding: 100px 0;
+    margin: 0 auto;
+    min-height: 60vh;
+    color: #3a3a3a;
+}
+
+main img{
+    padding-bottom: 40px;
+}
+
+main h2 {
+    font-size: 2.5rem;
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+
+main h4 {
+    color: orange;
+}
+
+main p{
+    font-size: 1.2rem;
+    line-height: 140%;
+}
+
+/*Footer*/
+
+footer {
+    width: 100vw;
+    padding: 40px 0;
+    text-align: center;
+    background-color: #3a3a3a;
+    color: white;
+    bottom: 0;
+}
