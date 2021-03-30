@@ -1,4 +1,4 @@
-# imiv
+# Interaktive Medien IV, CMS Wordpress, Snippets — FS 2021
 Hier sind die Snippets zu finden, welche im Unterricht IM4 (Wordpress-Theme-Entwicklung) gebraucht werden.
 
 ## S01.01
