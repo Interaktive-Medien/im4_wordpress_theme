@@ -6,7 +6,9 @@ Die Ordner gehören in den Ordner wp-content\themes\ einer funktionierenden Word
 Dank an Lea Moser für die Erarbeitung des Stoffs  
 ## Darstellung in Wordpress
 ### Beispiel fertige Lösung nach Schritt 11
-<a href="https://537449-50.web1.fh-htwchur.ch/" target="_blank">Fertige Lösung nach Schritt 11</a>
+<a href="https://537449-50.web1.fh-htwchur.ch" target="_blank">Fertige Lösung nach Schritt 11</a>
+### Erklärung des verwendeten CSS
+Siehe <a href="https://youtu.be/6oQ0hVDDVkQ" target="_blank">Video</a>
 ### Backend
 !["Wordpress Backend, Menü Design"](img_readme/wp_01.png?raw=true "Wordpress Backend, Menü Design")
 ### Dateistruktur
